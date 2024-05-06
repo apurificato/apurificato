@@ -1,8 +1,8 @@
-# Front-End Developer Studying Full Stack Programming
+# Front-End Developer Becoming a Full Stack Programmer
 
 ##### Anthony Purificato | Based in New Jersey, US
 
-##### My Personal Portfolio Website (https://www.easywebcreative.com)
+##### My Personal Portfolio Website (https://www.anthonypurificato.com)
 
 ##### I am a web professional with years of experience publishing content and digital media on websites both small and large in scale. As my career progressed, I made the leap into development and programming to increase my tech and web building skills.
 
