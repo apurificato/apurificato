@@ -17,10 +17,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,wordpress)](https://skillicons.dev)
 
 #### Back-End Programming Technologies
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgres,graphql,mongodb,heroku,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgres,graphql,mongodb)](https://skillicons.dev)
 
 #### Tools and Platforms
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,figma,heroku)](https://skillicons.dev)
 
 #### Reach Me On LinkedIn
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/apurificato)
